@@ -1,0 +1,22 @@
+{
+  "name": "githubtesting",
+  "version": "1.0.1",
+  "description": "A repository to test GitHub features.",
+  "main": "LoginPage/LoginPage.html",
+  "scripts": {
+    "start": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeatherPost/GitHubTesting.git"
+  },
+  "author": "Heather Post",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeatherPost/GitHubTesting/issues"
+  },
+  "homepage": "https://github.com/HeatherPost/GitHubTesting#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
